@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Uzoma Okafor, @Kulbethrand
-- 👀 I’m interested in Full stack engineering.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 I’m Uzoma Okafor.
+- 👀 Enthusiastic about learning Full Stack Engineering.
+- 📫 Reach me on bsuokafor@gmail.com
 
 <!---
 Kulbethrand/Kulbethrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
